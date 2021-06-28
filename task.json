@@ -1,0 +1,6 @@
+{
+	"operators": {
+		"techmap": "task/_BLIF/operators",
+		"synthesis": "task/operators"
+	}
+}

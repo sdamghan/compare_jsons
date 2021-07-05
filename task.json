@@ -1,6 +1,34 @@
 {
-	"operators": {
-		"techmap": "task/_BLIF/operators",
-		"synthesis": "task/operators"
+    "arch_sweep": {
+		"techmap": "/home/casauser/Desktop/Repos/sdamghan/ODIN_II/regression_test/benchmark/task/_BLIF/arch_sweep",
+		"synthesis": "/home/casauser/Desktop/Repos/sdamghan/ODIN_II/regression_test/benchmark/task/arch_sweep"
+	},
+    "syntax": {
+		"techmap": "/home/casauser/Desktop/Repos/sdamghan/ODIN_II/regression_test/benchmark/task/_BLIF/syntax",
+		"synthesis": "/home/casauser/Desktop/Repos/sdamghan/ODIN_II/regression_test/benchmark/task/syntax"
+	},
+    "operators": {
+		"techmap": "/home/casauser/Desktop/Repos/sdamghan/ODIN_II/regression_test/benchmark/task/_BLIF/operators",
+		"synthesis": "/home/casauser/Desktop/Repos/sdamghan/ODIN_II/regression_test/benchmark/task/operators"
+	},
+    "micro": {
+		"techmap": "/home/casauser/Desktop/Repos/sdamghan/ODIN_II/regression_test/benchmark/task/_BLIF/micro",
+		"synthesis": "/home/casauser/Desktop/Repos/sdamghan/ODIN_II/regression_test/benchmark/task/micro"
+	},
+    "full": {
+		"techmap": "/home/casauser/Desktop/Repos/sdamghan/ODIN_II/regression_test/benchmark/task/_BLIF/full",
+		"synthesis": "/home/casauser/Desktop/Repos/sdamghan/ODIN_II/regression_test/benchmark/task/full"
+	},
+    "FIR": {
+		"techmap": "/home/casauser/Desktop/Repos/sdamghan/ODIN_II/regression_test/benchmark/task/_BLIF/FIR",
+		"synthesis": "/home/casauser/Desktop/Repos/sdamghan/ODIN_II/regression_test/benchmark/task/FIR"
+	},
+    "large": {
+		"techmap": "/home/casauser/Desktop/Repos/sdamghan/ODIN_II/regression_test/benchmark/task/_BLIF/large",
+		"synthesis": "/home/casauser/Desktop/Repos/sdamghan/ODIN_II/regression_test/benchmark/task/large"
+	},
+    "VTR": {
+		"techmap": "/home/casauser/Desktop/Repos/sdamghan/ODIN_II/regression_test/benchmark/task/_BLIF/Modified_VTR_Benchmarks",
+		"synthesis": "/home/casauser/Desktop/Repos/sdamghan/ODIN_II/regression_test/benchmark/task/vtr"
 	}
 }
